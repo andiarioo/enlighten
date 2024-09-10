@@ -15,7 +15,6 @@ body {
 
 .layout-right {
   width: 40%;
-  /* flex-shrink: 0; */
   background-image: url(image.png);
   background-repeat: no-repeat;
   background-size: cover;
